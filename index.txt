@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Başkan'ın Sponsor Sitesi</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    BAŞKAN SİTESİ
+  </header>
+  <nav>
+    <a href="#">Anasayfa</a>
+    <a href="#">Sponsorlar</a>
+    <a href="#">Bonuslar</a>
+    <a href="#">İletişim</a>
+  </nav>
+  <section class="hero">
+    <h1>En Güvenilir Bahis Siteleri</h1>
+    <p>Güncel bonuslar ve yönlendirmeler burada.</p>
+  </section>
+  <section class="sponsor-container">
+    <div class="sponsor-card">
+      <img src="https://via.placeholder.com/250x140.png?text=Festwin" alt="Festwin">
+      <div class="sponsor-name">Festwin</div>
+      <div class="bonus-info">500₺ Deneme Bonusu</div>
+      <a href="#" class="btn">Siteye Git</a>
+    </div>
+    <div class="sponsor-card">
+      <img src="https://via.placeholder.com/250x140.png?text=Betewin" alt="Betewin">
+      <div class="sponsor-name">Betewin</div>
+      <div class="bonus-info">%100 İlk Yatırım Bonusu</div>
+      <a href="#" class="btn">Hemen Giriş</a>
+    </div>
+  </section>
+  <footer>
+    © 2025 Başkan Medya | Tüm Hakları Saklıdır
+  </footer>
+</body>
+</html>
